@@ -5,9 +5,11 @@
 ### Steps to run:
 
 1. Clone this project
-   <code>
-   git clone https://github.com/kayartaya-vinod/react-addressbook.git
-   </code>
+
+<code>
+git clone https://github.com/kayartaya-vinod/react-addressbook.git
+</code>
+
 1. CD into the project directory
    <code>
    cd ./react-addressbook
