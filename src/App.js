@@ -9,7 +9,7 @@ export class App extends Component {
 
     addContact = (contact) => {
         let { contacts } = this.state;
-        
+
         let currentMaxId = Math.max(...contacts.map((c) => c.id));
         contact.id = currentMaxId + 1;
 
@@ -29,11 +29,12 @@ export class App extends Component {
     render() {
         return (
             <>
-                <div className='container'>
-                    <div className='alert alert-primary'>
+                <div className='alert alert-primary'>
+                    <div className='container'>
                         <h1>Addressbook app - v1.0</h1>
                     </div>
-
+                </div>
+                <div className='container'>
                     <div className='row'>
                         <div className='col-5'>
                             <ContactForm addContact={this.addContact} />
