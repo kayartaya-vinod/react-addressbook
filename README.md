@@ -7,7 +7,9 @@
 1. Clone this project
 
 <code>
+
 git clone https://github.com/kayartaya-vinod/react-addressbook.git
+
 </code>
 
 1. CD into the project directory
