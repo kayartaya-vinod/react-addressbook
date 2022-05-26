@@ -4,8 +4,20 @@
 
 ### Steps to run:
 
-1. Clone this project - `git clone https://github.com/kayartaya-vinod/react-addressbook.git`
-1. CD into the project directory - `cd ./react-addressbook`
-1. Install dependencies - `npm i`
-1. Start the app - `npm start`
+1. Clone this project
+   <code>
+   git clone https://github.com/kayartaya-vinod/react-addressbook.git
+   </code>
+1. CD into the project directory
+   <code>
+   cd ./react-addressbook
+   </code>
+1. Install dependencies
+   <code>
+   npm i
+   </code>
+1. Start the app
+   <code>
+   npm start
+   </code>
 1. In a browser, visit http://localhost:3000
